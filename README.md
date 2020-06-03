@@ -11,10 +11,9 @@ If you are using pycuda with pycharm(Ubuntu) you may get an error saying
 ## Leaning PyCUDA:
 Am following "Hands-On GPU Programming with Python and CUDA" by Dr.&nbsp;Brian
 &nbsp;Tuomanen for learning PyCUDA. These projects below are in sequence
- according to the exercises and samples from the book.  
-<ol>
-<li> [Device Query](./device-query/readme.md) </li>
-<li> [Basic Data Transfer](./data-transfer/readme.md) </li>
-<li> [Basic Arithmetic Operations](./arithmetic-operations/readme.md) </li>
-<li> [Speed Test](./speed-test/readme.md) </li>
-</ol>
+ according to the exercises and samples from the book. 
+  
+ 1. [Device Query](./device-query/readme.md)
+ 1. [Basic Data Transfer](./data-transfer/readme.md)
+ 1. [Basic Arithmetic Operations](./arithmetic-operations/readme.md)
+ 1. [Speed Test](./speed-test/readme.md)
