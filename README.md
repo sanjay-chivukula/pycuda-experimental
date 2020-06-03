@@ -13,8 +13,8 @@ Am following "Hands-On GPU Programming with Python and CUDA" by Dr.&nbsp;Brian
 &nbsp;Tuomanen for learning PyCUDA. These projects below are in sequence
  according to the exercises and samples from the book.  
 <ol>
-<li> [./device-query/readme.md](Device Query) </li>
-<li> [./data-transfer/readme.md](Basic Data Transfer) </li>
-<li> [./arithmetic-operations/readme.md](Basic Arithmetic Operations) </li>
-<li> [./speed-test/readme.md](Speed Test) </li>
+<li> [Device Query](./device-query/readme.md) </li>
+<li> [Basic Data Transfer](./data-transfer/readme.md) </li>
+<li> [Basic Arithmetic Operations](./arithmetic-operations/readme.md) </li>
+<li> [Speed Test](./speed-test/readme.md) </li>
 </ol>
