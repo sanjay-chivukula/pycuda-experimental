@@ -1,3 +1,8 @@
+"""
+This script is written to play around with overloaded arithmetic operators
+used to perform operations on device data and compare result types with host
+operator results.
+"""
 import pycuda.autoinit
 import pycuda.driver as cuda
 from pycuda import gpuarray
