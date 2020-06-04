@@ -11,6 +11,7 @@ Am following "Hands-On GPU Programming with Python and CUDA" by Dr.&nbsp;Brian
  1. [Basic Data Transfer](./data-transfer/readme.md)
  1. [Basic Arithmetic Operations](./arithmetic-operations/readme.md)
  1. [Speed Test](./speed-test/readme.md)
+ 1. [ElementWiseKernel](./element-wise-kernel/readme.md)
 
 **Note**:   
 If you are using pycuda with pycharm(Ubuntu) you may get an error saying
